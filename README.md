@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=icvza&label=Profile%20views&color=0e75b6&style=flat" alt="icvza" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=icvza" alt="icvza" /></a> </p>
-
 - 🔭 I’m currently working on **my personal site**
 
 - 📝 I regularly write articles on [https://isaacdev.medium.com](https://isaacdev.medium.com)
