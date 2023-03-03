@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=icvza&label=Profile%20views&color=0e75b6&style=flat" alt="icvza" /> </p>
 
-- 🔭 I’m currently an apprentice for **Road To Hire**
+- 🔭 Junior Software Engineer **@RVPR - CNET Group**
 - 💬 Ask me about **Rails, and React**
 - 📫 How to reach me **cisaac188@gmail.com**
 - ⚡ Fun fact **Flatiron School Graduate**
